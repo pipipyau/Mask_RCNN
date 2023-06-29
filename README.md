@@ -2,8 +2,9 @@
 
 This is an implementation of Mask R-CNN for pigs detection and segmentation.
 
-Sourse repositories are [library](https://github.com/matterport/Mask_RCNN) and [modefications for pig](https://github.com/divyahanda219/DH_Project/tree/master).
+It is based on the [library](https://github.com/matterport/Mask_RCNN) and pipeline from the [repository](https://github.com/divyahanda219/DH_Project/tree/master), the creators of which trained the network to detect and segment pigs. The library has been modified for compatibility with Tensorflow version >2.
+
 
 Results: 
 
-![](assets/pig.gif)
+![Result example](assets/pig.gif)
