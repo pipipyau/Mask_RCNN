@@ -1,6 +1,8 @@
 """
-Update of Mask R-CNN
-Written by Asya Lyanova
+Update of Mask R-CNN 
+Written by Asya Lyanova (2023)
+
+Mask R-CNN
 The main Mask R-CNN model implementation.
 
 Copyright (c) 2017 Matterport, Inc.
